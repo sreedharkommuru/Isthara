@@ -1,0 +1,229 @@
+[10-Jan-2018 09:57:30 UTC] PHP Notice:  1-10572-I will inform to the cater-2018-01-10 15:27:29-I will inform to the cater in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  23223 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 330
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  9716773731 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 331
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  C-106 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 332
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  SHIVANG TYAGI in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 334
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  2018-01-10 19:23:53 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 336
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  egTAS15cAms:APA91bHmdidd8P0RYjEknqHlaWD-DNdsAy0ks41TRgd6JIKYg-D1aye58mgYN7g2tIsH5OcPsfQwAy8Sv1Cr7V8wa5MHDscYP7h99ZYA_uv4wmLloOnLb4zmARgClxu_TjnRE3sO7Z9Z in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 338
+[10-Jan-2018 13:57:35 UTC] PHP Notice:  0 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 347
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  23223 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 330
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  9716773731 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 331
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  C-106 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 332
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  SHIVANG TYAGI in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 334
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  2018-01-10 19:29:24 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 336
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  egTAS15cAms:APA91bHmdidd8P0RYjEknqHlaWD-DNdsAy0ks41TRgd6JIKYg-D1aye58mgYN7g2tIsH5OcPsfQwAy8Sv1Cr7V8wa5MHDscYP7h99ZYA_uv4wmLloOnLb4zmARgClxu_TjnRE3sO7Z9Z in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 338
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  0 in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 347
+[10-Jan-2018 13:59:25 UTC] PHP Notice:  insertted in /home/skommuru5582/public_html/Istharav2/class_lib.php on line 351
+[10-Jan-2018 17:12:36 UTC] PHP Notice:  USER -1-24195-My freezer is not functional. The ice doesn't freeze and frozen food goes stale.-2018-01-10 22:42:36 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[10-Jan-2018 17:29:56 UTC] PHP Notice:  ADMIN -1-24195-noted will check-2018-01-10 22:59:56-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[12-Jan-2018 13:44:59 UTC] PHP Notice:  USER -1-10572-hey kindly check with WiFi it's not working I have said to the guard he said there is some power problem-2018-01-12 19:15:00 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[12-Jan-2018 14:03:21 UTC] PHP Notice:  ADMIN -1-10572-noted will check-2018-01-12 19:33:20-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[13-Jan-2018 03:12:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[13-Jan-2018 03:12:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[13-Jan-2018 03:12:52 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[13-Jan-2018 11:19:24 UTC] PHP Notice:  USER -1-24195-No water!-2018-01-13 16:49:23 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[13-Jan-2018 11:19:40 UTC] PHP Notice:  USER -1-24195-and nobody has checked the fridge yet-2018-01-13 16:49:39 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[14-Jan-2018 05:04:04 UTC] PHP Notice:  USER -1-23223-Plumbing Air Locked in bathroom since last night.-2018-01-14 10:34:04 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[14-Jan-2018 05:09:03 UTC] PHP Notice:  ADMIN -1-23223-Okay noted I will send plumber-2018-01-14 10:39:02-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[14-Jan-2018 10:06:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[14-Jan-2018 10:06:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[14-Jan-2018 10:06:07 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[14-Jan-2018 15:18:57 UTC] PHP Notice:  USER -1-23911-We are facing water issues as there is no water availability for washing plates at night-2018-01-14 20:48:56 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[14-Jan-2018 15:28:42 UTC] PHP Notice:  ADMIN -1-23911-noted-2018-01-14 20:58:41-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[15-Jan-2018 06:47:22 UTC] PHP Notice:  USER -1--Room No, C-503, AC and washroom light not working-2018-01-15 12:17:22 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[15-Jan-2018 06:51:49 UTC] PHP Notice:  ADMIN -1--noted will check-2018-01-15 12:21:48-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[15-Jan-2018 10:45:27 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[15-Jan-2018 10:45:27 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[15-Jan-2018 10:45:27 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[15-Jan-2018 16:31:12 UTC] PHP Notice:  USER -1-22054-plug socket unusable. kindly check-2018-01-15 22:01:11 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[16-Jan-2018 17:38:10 UTC] PHP Warning:  unlink(foodmenus/http://sriayyappaconstructions.com/Istharav2/foodmenus/2018-01-15): No such file or directory in /home/skommuru5582/public_html/Istharav2/foodmenuclass.php on line 33
+[16-Jan-2018 17:38:22 UTC] PHP Warning:  unlink(foodmenus/http://sriayyappaconstructions.com/Istharav2/foodmenus/2018-01-15): No such file or directory in /home/skommuru5582/public_html/Istharav2/foodmenuclass.php on line 33
+[16-Jan-2018 17:38:32 UTC] PHP Warning:  unlink(foodmenus/http://sriayyappaconstructions.com/Istharav2/foodmenus/2018-01-15): No such file or directory in /home/skommuru5582/public_html/Istharav2/foodmenuclass.php on line 33
+[16-Jan-2018 19:12:41 UTC] PHP Notice:  USER -1-6381-please send someone for AC repairing. it is not cooling properly-2018-01-17 00:42:40 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[16-Jan-2018 19:13:01 UTC] PHP Notice:  USER -1-6381-thank you-2018-01-17 00:43:00 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[16-Jan-2018 19:15:38 UTC] PHP Notice:  ADMIN -1-6381-Okay-2018-01-17 00:45:37-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[16-Jan-2018 19:16:03 UTC] PHP Notice:  ADMIN -1-22054-Okay noted-2018-01-17 00:46:02-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[16-Jan-2018 19:45:37 UTC] PHP Notice:  USER -1-15518-Fan above bed A which is towards the cupboard is extremely noisy and washroom light not working... needs to be checked and fixed as early as possible.... Thanks and Regards-2018-01-17 01:15:37 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[16-Jan-2018 19:49:03 UTC] PHP Notice:  USER -1-15518-When in speed 4 or above-2018-01-17 01:19:03 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Jan-2018 04:49:42 UTC] PHP Notice:  USER -1-16228-plugs not working-2018-01-17 10:19:41 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Jan-2018 04:50:02 UTC] PHP Notice:  USER -1-16228-need an extra key for the room-2018-01-17 10:20:01 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Jan-2018 15:54:57 UTC] PHP Notice:  USER -1-23911-One of the washing machine in Charan residency is not spinning !!-2018-01-17 21:24:58 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Jan-2018 16:05:25 UTC] PHP Notice:  ADMIN -1-23911-Okay noted-2018-01-17 21:35:24-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Jan-2018 17:23:06 UTC] PHP Notice:  ADMIN -1-15518-noted-2018-01-17 22:53:05-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Jan-2018 17:23:35 UTC] PHP Notice:  ADMIN -1-16228-noted-2018-01-17 22:53:34-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Jan-2018 17:36:18 UTC] PHP Notice:  USER -1-23223-Room Number C-503.  AC not working. Occupants don't have app login ID to log complaint-2018-01-17 23:06:17 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Jan-2018 17:57:57 UTC] PHP Notice:  USER -1-22054-bed top piece falling out-2018-01-17 23:27:55 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Jan-2018 18:09:37 UTC] PHP Notice:  ADMIN -1-22054-Okay I will carpenters-2018-01-17 23:39:36-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Jan-2018 18:09:48 UTC] PHP Notice:  ADMIN -1-22054-send-2018-01-17 23:39:48-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Jan-2018 18:10:21 UTC] PHP Notice:  ADMIN -1-23223-Tomorrow it will be fixed-2018-01-17 23:40:21-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Jan-2018 19:23:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[17-Jan-2018 19:23:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[17-Jan-2018 19:23:16 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[18-Jan-2018 10:38:06 UTC] PHP Notice:  ADMIN -1-6381-completed-2018-01-18 16:08:04-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[18-Jan-2018 11:20:44 UTC] PHP Notice:  ADMIN -1-22054-completed-2018-01-18 16:50:43-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[18-Jan-2018 11:23:47 UTC] PHP Notice:  ADMIN -1-23223-completed-2018-01-18 16:53:46-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[18-Jan-2018 11:24:40 UTC] PHP Notice:  ADMIN -1-16228-all plugs working now-2018-01-18 16:54:38-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[18-Jan-2018 11:25:13 UTC] PHP Notice:  ADMIN -1-16228-you have to pay for extra key-2018-01-18 16:55:12-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[19-Jan-2018 05:27:30 UTC] PHP Notice:  USER -1-24231-hi, please provide "hanger rod" for the steel almirah.-2018-01-19 10:57:29 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[19-Jan-2018 05:29:21 UTC] PHP Notice:  ADMIN -1-24231-noted-2018-01-19 10:59:20-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[19-Jan-2018 13:07:49 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[19-Jan-2018 13:07:49 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[19-Jan-2018 13:07:49 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[20-Jan-2018 03:10:33 UTC] PHP Notice:  USER -1-6381-fan regulator is not working, do the needful-2018-01-20 08:40:30 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[20-Jan-2018 05:47:49 UTC] PHP Notice:  ADMIN -1-6381-Okay noted-2018-01-20 11:17:48-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[20-Jan-2018 20:09:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[20-Jan-2018 20:09:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[20-Jan-2018 20:09:25 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[21-Jan-2018 08:00:26 UTC] PHP Notice:  USER -1-23912-out of 2 washing machines only 1 is working.
+At Charan when we joined, we were told that 4 machines will be installed and Currently a single machine is operating. please fix this as soon as possible-2018-01-21 13:30:25 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[21-Jan-2018 08:08:51 UTC] PHP Notice:  ADMIN -1-23912-noted. Will be done-2018-01-21 13:38:50-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[21-Jan-2018 08:19:59 UTC] PHP Notice:  ADMIN -1-23912-One more washing machine will be fixed within 2hrs-2018-01-21 13:49:57-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[21-Jan-2018 09:39:57 UTC] PHP Notice:  ADMIN -1-23912-completed-2018-01-21 15:09:55-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[21-Jan-2018 15:39:53 UTC] PHP Notice:  USER -1-6301-hi team.
+geyser needs fixing again-2018-01-21 21:09:53 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[21-Jan-2018 15:53:05 UTC] PHP Notice:  ADMIN -1-6301-Okay noted I will send electricians tomorrow-2018-01-21 21:23:04-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[21-Jan-2018 17:45:56 UTC] PHP Notice:  USER -1-6301-thanks  Charles. but is it convenient if he could check it on Saturday ?-2018-01-21 23:15:56 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[21-Jan-2018 18:13:25 UTC] PHP Notice:  ADMIN -1-6301-Okay noted-2018-01-21 23:43:24-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[22-Jan-2018 15:23:00 UTC] PHP Notice:  USER -1-24195-bedsheet hasn't been changed since 22 days, please ensure it is changed tomorrow when the cleaning is done.-2018-01-22 20:53:00 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[22-Jan-2018 20:18:56 UTC] PHP Notice:  USER -1-23912-Thank you!..
+Hopefully the down machine get repaired soon so that at least 3 machines are on the job. 
+Thanks once again.-2018-01-23 01:48:56 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[23-Jan-2018 03:14:11 UTC] PHP Notice:  USER -1-15742-again TV says no account balance-2018-01-23 08:44:10 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[23-Jan-2018 03:15:02 UTC] PHP Notice:  ADMIN -1-15742-Please switch off the set top box and switch on again-2018-01-23 08:45:01-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[23-Jan-2018 03:15:08 UTC] PHP Notice:  ADMIN -1-15742-should work-2018-01-23 08:45:07-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[23-Jan-2018 03:15:19 UTC] PHP Notice:  ADMIN -1-15742-It's auto renewal-2018-01-23 08:45:18-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[23-Jan-2018 03:15:35 UTC] PHP Notice:  ADMIN -1-15742-Please let us know if it's working-2018-01-23 08:45:34-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[23-Jan-2018 15:02:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[23-Jan-2018 15:02:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[23-Jan-2018 15:02:54 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[23-Jan-2018 15:08:01 UTC] PHP Notice:  USER -1-22053-bathroom bulb is not working, kindly replace that-2018-01-23 20:38:00 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[23-Jan-2018 18:24:01 UTC] PHP Notice:  USER -1-23912-WiFi is not getting connected.
+An Error of  "Account has been expired" is coming up. Kindly resolve the issue. Thanks!-2018-01-23 23:54:01 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 03:04:49 UTC] PHP Notice:  USER -1-23223-Short circuit in the room. Plug points and switches on the back wall not working-2018-01-24 08:34:48 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 03:05:27 UTC] PHP Notice:  USER -1-23223-Please get it fixed asap as fridge is connected to one of those plugs-2018-01-24 08:35:26 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 03:06:02 UTC] PHP Notice:  USER -1-23223-Also, gyser and bathroom lights with the same set of connection-2018-01-24 08:36:00 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 04:04:23 UTC] PHP Notice:  ADMIN -1-23223-noted will work on it asap-2018-01-24 09:34:22-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[24-Jan-2018 06:14:53 UTC] PHP Notice:  USER -1-6301-Hi Charles, is there any issue with the power supply today in/around khushi ? has anyone reported anything? i am experiencing lot of power fluctuations in my room.-2018-01-24 11:44:51 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 06:25:16 UTC] PHP Notice:  ADMIN -1-6301-biswajit will come over to check-2018-01-24 11:55:15-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[24-Jan-2018 06:47:40 UTC] PHP Notice:  USER -1-6301-thank you-2018-01-24 12:17:35 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 14:22:54 UTC] PHP Notice:  ADMIN -1-23223-issue sorted.-2018-01-24 19:52:52-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[24-Jan-2018 14:23:28 UTC] PHP Notice:  ADMIN -1-6301-transformer fuse had gone. now rectified and electricity restores in the eve-2018-01-24 19:53:27-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[24-Jan-2018 16:57:03 UTC] PHP Notice:  USER -1-23912-No milk at coffee machine. No one responding.-2018-01-24 22:27:02 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[24-Jan-2018 17:34:22 UTC] PHP Notice:  ADMIN -1-23912-Will be replenished tomorrow morning-2018-01-24 23:04:22-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[25-Jan-2018 00:31:39 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[25-Jan-2018 06:27:18 UTC] PHP Notice:  USER -1-22740-I didn't get my new wifi credentials yet-2018-01-25 11:57:19 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[25-Jan-2018 06:27:59 UTC] PHP Notice:  USER -1-22740-account has been expired-2018-01-25 11:58:00 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[26-Jan-2018 16:58:16 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[26-Jan-2018 16:59:45 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[26-Jan-2018 17:43:53 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[27-Jan-2018 03:40:53 UTC] PHP Notice:  ADMIN -1-22740-Sending new credentials shortly-2018-01-27 09:10:52-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[27-Jan-2018 03:41:00 UTC] PHP Notice:  ADMIN -1-22740-regret inconvenience-2018-01-27 09:10:59-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[27-Jan-2018 04:26:42 UTC] PHP Notice:  ADMIN -1-22740-please try 36993-2018-01-27 09:56:40-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[27-Jan-2018 06:02:09 UTC] PHP Notice:  USER -1-23912-No power back up.-2018-01-27 11:32:10 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[27-Jan-2018 06:02:37 UTC] PHP Notice:  USER -1-23912-working from home and there is no wifi and electricity.-2018-01-27 11:32:37 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[27-Jan-2018 06:03:53 UTC] PHP Notice:  ADMIN -1-23912-generator not starting. have called for the service engineer to come.-2018-01-27 11:33:52-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[27-Jan-2018 07:02:27 UTC] PHP Notice:  USER -1-23912-This is to be taken at priority.
+After paying in full if the services aren't getting delivered then an introspection is required.
+I will have to go to office to complete my work as I am unable to charge my laptop.-2018-01-27 12:32:27 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[27-Jan-2018 07:07:21 UTC] PHP Notice:  ADMIN -1-23912-noted. this has been an emergency situation due to some fault. We will ensure that such inconvenience does not happen.-2018-01-27 12:37:20-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[27-Jan-2018 08:10:31 UTC] PHP Notice:  USER -1-23912-I will deduct my rent on proprtionate basis as long the electricity is unavailable, due to inconvenience faced by me , my work was urgent , which couldn't do-2018-01-27 13:40:31 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[27-Jan-2018 17:44:07 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[29-Jan-2018 08:56:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[29-Jan-2018 08:56:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[29-Jan-2018 08:56:08 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[29-Jan-2018 15:30:35 UTC] PHP Notice:  USER -1-6301-hi Charles, biswajit missed to check the geyser this weekend.  can you please try it for sometime this week-2018-01-29 21:00:36 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[30-Jan-2018 08:00:07 UTC] PHP Notice:  USER -1-24231-hanger rod not put yet-2018-01-30 13:30:05 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[31-Jan-2018 14:08:55 UTC] PHP Notice:  USER -1-25305-please try to add 1 more item in dinner menu (curd)-2018-01-31 19:38:55 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[31-Jan-2018 23:17:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[31-Jan-2018 23:17:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[31-Jan-2018 23:17:26 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[01-Feb-2018 08:02:39 UTC] PHP Notice:  USER -1-24231-hanger rod not put yet-2018-02-01 13:32:38 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[02-Feb-2018 04:46:52 UTC] PHP Notice:  USER -1-15742-still same issue tried this already!!-2018-02-02 10:16:51 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[02-Feb-2018 13:49:32 UTC] PHP Notice:  USER -1-23223-Water leakage in the clothes washing area. Please check-2018-02-02 19:19:30 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[02-Feb-2018 14:17:36 UTC] PHP Notice:  ADMIN -1-23223-completed-2018-02-02 19:47:34-103 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[02-Feb-2018 15:05:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[02-Feb-2018 15:05:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[02-Feb-2018 15:05:13 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[03-Feb-2018 06:34:14 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:34:42 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:34:49 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:34:59 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:35:21 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:35:41 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:36:31 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:37:21 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:38:25 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 06:39:18 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[03-Feb-2018 10:03:28 UTC] PHP Notice:  USER -1-6301-thanks. biswajit fixed the geyser today-2018-02-03 15:33:30 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[04-Feb-2018 03:48:16 UTC] PHP Notice:  USER -1-22804-it's almost two and half weeks, I haven't got my T shirt from laundry-2018-02-04 09:18:15 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[04-Feb-2018 03:48:26 UTC] PHP Notice:  USER -1-22804-lost my T shirt-2018-02-04 09:18:25 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[04-Feb-2018 03:53:03 UTC] PHP Notice:  ADMIN -1-22804-noted. we will follow it up-2018-02-04 09:23:01-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[04-Feb-2018 08:03:08 UTC] PHP Notice:  USER -1-24746-cupboard handle came out. Plz fix it.-2018-02-04 13:33:06 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[04-Feb-2018 08:04:10 UTC] PHP Notice:  USER -1-24746-In Breakfast Sameer quality is horrible..its just water..-2018-02-04 13:34:09 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[04-Feb-2018 08:05:45 UTC] PHP Notice:  ADMIN -1-24746-noted. will address  cupboard handle will be fixed-2018-02-04 13:35:44-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[05-Feb-2018 02:13:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[05-Feb-2018 02:13:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[05-Feb-2018 02:13:21 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[06-Feb-2018 18:37:59 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[06-Feb-2018 18:37:59 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[06-Feb-2018 18:37:59 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[07-Feb-2018 13:07:09 UTC] PHP Notice:  USER -1-26569-This is phani... from madhapur istara... belongs to 205 room... request you to fix bathroom door... It is very tight and the wood broke at the bottom-2018-02-07 18:37:09 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[07-Feb-2018 13:13:09 UTC] PHP Notice:  ADMIN -1-26569-noted . Will do the needful-2018-02-07 18:43:08-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[08-Feb-2018 04:41:23 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[08-Feb-2018 04:41:32 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[08-Feb-2018 04:49:14 UTC] PHP Notice:  Undefined index: adminname in /home/skommuru5582/public_html/Istharav2/userschat.php on line 33
+[08-Feb-2018 16:14:36 UTC] PHP Notice:  USER -1-26745-hi this is Asrith from madhapur isthara can you provide curd in dinner there are only two curries . So please provide curd and make curries little bit spicy-2018-02-08 21:44:36 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[08-Feb-2018 16:20:57 UTC] PHP Notice:  ADMIN -1-26745-noted.-2018-02-08 21:50:57-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[08-Feb-2018 16:21:18 UTC] PHP Notice:  ADMIN -1-26569-Door fixed. hope it's ok now-2018-02-08 21:51:18-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[08-Feb-2018 17:22:25 UTC] PHP Notice:  USER -1-24419-Our tv is not
+ Working since 3 days, need to look for satish to fix the issue, wasim doesnt have satishs number, dont know whom to contact.. Poor experience-2018-02-08 22:52:25 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[08-Feb-2018 17:25:30 UTC] PHP Notice:  ADMIN -1-24419-noted . Will get it fixed by tomorrow.-2018-02-08 22:55:30-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[09-Feb-2018 02:50:47 UTC] PHP Notice:  USER -1-26569-thanks for fixing the issue... its resolved now...-2018-02-09 08:20:46 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[09-Feb-2018 02:51:51 UTC] PHP Notice:  USER -1-26569-Regarding gym equipments... we dont have enough things... like dumbells... long rods.... and also we require you to provide one stick for exercise...-2018-02-09 08:21:50 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[09-Feb-2018 02:52:19 UTC] PHP Notice:  ADMIN -1-26569-noted. Will handle-2018-02-09 08:22:18-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[09-Feb-2018 02:52:49 UTC] PHP Notice:  USER -1-26569-I see the gym equipments more in madhava hills... the chest bar and all... am unable to attach the images here.. request u to sort this out-2018-02-09 08:22:48 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[09-Feb-2018 02:59:28 UTC] PHP Notice:  ADMIN -1-26569-Sure-2018-02-09 08:29:28-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[09-Feb-2018 15:06:27 UTC] PHP Notice:  USER -1-8283-the table desk in the living room has its screws coming out which is kept on the table itself and for the past 2 days proper cleaning has not been done even in the living room.Please take note-2018-02-09 20:36:25 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[09-Feb-2018 15:12:22 UTC] PHP Notice:  ADMIN -1-8283-noted. Will get it done asap.-2018-02-09 20:42:21-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[10-Feb-2018 05:19:39 UTC] PHP Notice:  USER -1-26569-hello... can you update here...-2018-02-10 10:49:38 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[10-Feb-2018 08:59:16 UTC] PHP Notice:  USER -1-23223-Login ID for wifi expired-2018-02-10 14:29:14 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[11-Feb-2018 07:15:06 UTC] PHP Notice:  USER -1-8283-light but the other side doesn't because the MCB trips according to its own wish and the light goes off.Cannot connect to the ACT WiFi today because of same reason.Please let us sleep peacefully tonight atleast-2018-02-11 12:45:05 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[11-Feb-2018 07:30:16 UTC] PHP Notice:  USER -1-23911-water dispensers are filled with algae and smelling very bad, the water is unfit for consumption-2018-02-11 13:00:14 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[11-Feb-2018 07:34:23 UTC] PHP Notice:  ADMIN -1-23910-This will be attended to immediately-2018-02-11 13:04:22-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[12-Feb-2018 02:44:33 UTC] PHP Notice:  USER -1-24201-Hi this is Dinesh, we have an serious issue with the blockage of water with in our wash room, because of that there was flies too...we are informing to guys like mani but there are doing just for temperary basis... please help to resolve this ASAP-2018-02-12 08:14:31 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[12-Feb-2018 03:37:55 UTC] PHP Notice:  USER -1-23910-The breakfast is getting altered day to day, parathas are getting extinct from the plates. At the time of admissions we were assured of parathas at least 3 times from Mon to sat but the same is not happening. consider the same and plz provide parathas-2018-02-12 09:07:54 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[12-Feb-2018 04:48:31 UTC] PHP Notice:  ADMIN -1-24201-noted. we will look into this at the earliest-2018-02-12 10:18:20-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[12-Feb-2018 04:50:54 UTC] PHP Notice:  ADMIN -1-23910-Hi Anuragh!! we have parathas 3 times this week too. you will definitely have it 3 times a week.-2018-02-12 10:20:52-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[12-Feb-2018 16:02:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[12-Feb-2018 16:02:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[12-Feb-2018 16:02:57 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[12-Feb-2018 16:26:16 UTC] PHP Notice:  USER -1-24419-Can you please send a guy to check for
+9967401432 the air conditioner, it is not performing as it should since day 1.. Quick resolution-2018-02-12 21:56:16 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[13-Feb-2018 02:46:10 UTC] PHP Notice:  USER -1-26569-??-2018-02-13 08:16:09 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[14-Feb-2018 00:39:38 UTC] PHP Notice:  USER -1-15945-tables and benches are full of dust. Maintenance people haven't cleaned it till now. Please get it done-2018-02-14 06:09:37 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[14-Feb-2018 07:56:16 UTC] PHP Notice:  USER -1-25528-Geyser switch is not working. Please fix it ASAP i need to go to office.-2018-02-14 13:26:16 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[15-Feb-2018 07:34:11 UTC] PHP Notice:  USER -1-26569-can someone respond here... seems this app is also not giving the latest updates-2018-02-15 13:04:11 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[15-Feb-2018 07:38:08 UTC] PHP Notice:  ADMIN -1-26569-Hi Phanindra will have the dumbbells placed-2018-02-15 13:08:08-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[15-Feb-2018 15:43:36 UTC] PHP Notice:  USER -1-25528-bed sheet hasn't been changed for more than a month please change it with new one tomorrow without fail.-2018-02-15 21:13:36 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[15-Feb-2018 15:49:15 UTC] PHP Notice:  ADMIN -1-25528-Noted. sorry about it. will get it done tomorrow without fail-2018-02-15 21:19:14-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[15-Feb-2018 17:27:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[15-Feb-2018 17:27:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[15-Feb-2018 17:27:05 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[16-Feb-2018 15:52:29 UTC] PHP Notice:  USER -1-26401-Please provide dumbbells and springs in gym at Madhapur Isthara. They are basic equipment to be provided.-2018-02-16 21:22:27 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[16-Feb-2018 18:16:24 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 9
+[16-Feb-2018 18:16:24 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 24
+[16-Feb-2018 18:16:24 UTC] PHP Warning:  array_key_exists() expects parameter 2 to be array, null given in /home/skommuru5582/public_html/Istharav2/referralsClass.php on line 32
+[17-Feb-2018 07:58:22 UTC] PHP Notice:  ADMIN -1-26401-it has been ordered and will be there very shortly-2018-02-17 13:28:22-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Feb-2018 08:00:20 UTC] PHP Notice:  ADMIN -1-15945-noted-2018-02-17 13:30:20-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Feb-2018 08:00:25 UTC] PHP Notice:  ADMIN -1-15945-Will be done-2018-02-17 13:30:26-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Feb-2018 08:01:05 UTC] PHP Notice:  ADMIN -1-24419-noted-2018-02-17 13:31:06-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Feb-2018 12:15:00 UTC] PHP Notice:  USER -1-26566-Tubelight switch not working-2018-02-17 17:44:59 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 14:35:28 UTC] PHP Notice:  USER -1-26558-plz regularly updated food menu-2018-02-17 20:05:28 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 14:35:56 UTC] PHP Notice:  USER -1-26558-in bathroom, water gets stagnated-2018-02-17 20:05:56 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 14:36:22 UTC] PHP Notice:  USER -1-26558-almirah and cots needs to be balanced-2018-02-17 20:06:22 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 14:36:43 UTC] PHP Notice:  USER -1-26558-for one of the cots, plywood needs to be fixed-2018-02-17 20:06:43 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 14:37:04 UTC] PHP Notice:  USER -1-26558-bedsheets and pillow cover needs to be replaced-2018-02-17 20:07:04 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 14:37:23 UTC] PHP Notice:  USER -1-26558-have the fridge stand in place-2018-02-17 20:07:23 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 20
+[17-Feb-2018 15:13:25 UTC] PHP Notice:  ADMIN -1-26558-Hi-2018-02-17 20:43:25-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Feb-2018 15:14:02 UTC] PHP Notice:  ADMIN -1-26558-Aylwin Will get it fixed tomorrow-2018-02-17 20:44:02-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
+[17-Feb-2018 15:14:30 UTC] PHP Notice:  ADMIN -1-26566-sure will have it checked-2018-02-17 20:44:30-102 in /home/skommuru5582/public_html/Istharav2/maintenanceClass.php on line 36
